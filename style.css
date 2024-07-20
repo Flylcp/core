@@ -1,0 +1,36 @@
+*{
+  background-color: white;
+}
+
+body {
+
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2{
+  text-align: center;
+}
+
+.hdline {
+  font-size: larger;
+  color: blue;
+}
+
+.cntnt {
+  font-style: italic;
+}
+
+#pro {
+font-size: larger;
+font-weight: bold;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
