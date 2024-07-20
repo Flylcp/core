@@ -34,3 +34,10 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+/*Horizontal position of navigation bar*/
+li {
+  display: inline-block;
+  margin-right: 20px; /* add spacing between items */
+  margin-bottom: 20px;
+}
