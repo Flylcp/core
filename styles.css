@@ -18,3 +18,11 @@ h1 {
 .note {
   text-align: left;
 }
+
+h2 {
+  text-align: center;
+}
+
+.note {
+  margin-left: 20%;
+}
