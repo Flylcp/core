@@ -13,6 +13,8 @@ img {
 
 h1 {
   text-align: center;
+  background-color: blue;
+  color: beige;
 }
 
 .note {

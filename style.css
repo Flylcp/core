@@ -9,6 +9,8 @@ body {
 h1 {
   text-align: center;
   text-decoration: underline;
+  background-color: blue;
+  color: beige;
 }
 
 h2{
@@ -50,6 +52,35 @@ table {
 td {
   border: 2.0px solid black;
 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.note {
+  text-align: left;
+}
+
+h2 {
+  text-align: center;
+}
+
+.note {
+  margin-left: 20%;
 }
 
 
