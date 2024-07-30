@@ -38,7 +38,8 @@ img {
 /*Horizontal position of navigation bar*/
 li {
   display: inline-block;
-  margin-right: 20px; /* add spacing between items */
+  align-items: center;
+  margin-right: 80px; /* add spacing between items */
   margin-bottom: 20px;
 }
 
@@ -51,6 +52,4 @@ td {
 
 }
 
-.ref {
-  text-align: left;
-}
+
